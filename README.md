@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Aisuluu Baktybekova
 - 👀 I’m interested in Data Science
-- 🌱 I’m currently pursuing bachelor's degree program in Statistics 
+- 🌱 I’m currently pursuing master's degree in Computer Science with Data Science track 
 - 📫 You can reach me at aisuluu333@gmail.com
 
 <!---
